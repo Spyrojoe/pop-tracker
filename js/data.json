@@ -1,0 +1,26 @@
+[
+	{
+		"name" : "Dave Matthews",
+		"shortname" : "Dave",
+		"band" : "Dave Matthews Band",
+		"instrument" : "guitar",
+		"bio" : "Pretty much a dirty hippy",
+		"filename" : "davematthews.jpg"
+	},
+	{
+		"name" : "Dave Grohl",
+		"shortname" : "Grohl",
+		"band" : "Foo Fighters",
+		"instrument": "guitar",
+		"bio" : "Nicest guy in rock",
+		"filename" : "davegrohl.jpg"
+	},
+	{
+		"name" : "Matt Bellamy",
+		"shortname" : "Fonzie",
+		"band" : "Muse",
+		"instrument" : "guitar",
+		"bio" : "My hero",
+		"filename" : "mattbellamy.jpg"
+	}
+]
